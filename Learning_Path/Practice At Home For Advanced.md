@@ -6,3 +6,4 @@
 
 3. [Soldier and Cards](https://codeforces.com/contest/546/problem/C)
 
+4. [Hamburgers](https://codeforces.com/problemset/problem/371/C?utm_source=chatgpt.com)
