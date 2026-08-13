@@ -9,3 +9,5 @@
 # 4. [Soldier and Cards](https://codeforces.com/contest/546/problem/C)
 
 # 5. [Hamburgers](https://codeforces.com/problemset/problem/371/C?utm_source=chatgpt.com)
+
+# 6. [Permutations](https://codeforces.com/problemset/problem/124/B)
