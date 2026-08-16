@@ -11,3 +11,9 @@
 # 5. [Hamburgers](https://codeforces.com/problemset/problem/371/C?utm_source=chatgpt.com)
 
 # 6. [Permutations](https://codeforces.com/problemset/problem/124/B)
+
+# 7. [Registration system](https://codeforces.com/problemset/problem/4/C)
+
+
+
+
