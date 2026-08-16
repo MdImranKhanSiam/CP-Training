@@ -16,6 +16,8 @@
 
 # 8. [Lecture](https://codeforces.com/problemset/problem/499/B)
 
+# 9. [Learning Languages](https://codeforces.com/problemset/problem/277/A)
+
 
 
 
