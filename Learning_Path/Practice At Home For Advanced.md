@@ -14,6 +14,8 @@
 
 # 7. [Registration system](https://codeforces.com/problemset/problem/4/C)
 
+# 8. [Lecture](https://codeforces.com/problemset/problem/499/B)
+
 
 
 
