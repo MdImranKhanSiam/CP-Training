@@ -18,6 +18,13 @@
 
 # 9. [Learning Languages](https://codeforces.com/problemset/problem/277/A)
 
+# 10. [SUM and REPLACE](https://codeforces.com/contest/920/submission/387210187)
+
+# 11. [Potions](https://codeforces.com/contest/1526/problem/C2)
+
+
+
+
 
 
 
